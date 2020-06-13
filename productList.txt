@@ -1,0 +1,6 @@
+toy xyz 2345 3000.000000 3
+car xyz 789 569.500000 7
+box xyz 26 78.000000 3
+pen abc 782 8.000000 10
+pant google 12 499.000000 5
+bottle cvb 23 78.000000 2
